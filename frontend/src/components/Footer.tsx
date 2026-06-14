@@ -60,7 +60,7 @@ export default function Footer() {
         <div className="mt-20 pt-8 border-t border-[var(--border-default)] flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-[var(--text-muted)]">
             © 2026 TalentIQ · Built with ❤️ by{" "}
-            <span className="text-[var(--color-teal-300)] font-semibold">Yashpalsingh Pawara</span>
+            <span className="text-[var(--color-teal-300)] font-semibold">Anurag</span>
 
           </p>
           <div className="flex gap-6">

@@ -437,6 +437,6 @@ Unauthorised copying, modification, distribution, or use of this software, in wh
 
 <div align="center">
 
-Built with ❤️ by **Yashpalsingh Pawara** 
+Built with ❤️ by **Anurag** 
 
 </div>
